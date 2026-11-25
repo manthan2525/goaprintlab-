@@ -1,0 +1,11 @@
+node_modules/
+server/node_modules/
+client/node_modules/
+client/dist/
+server/.env
+server/uploads/models/*
+!server/uploads/models/.gitkeep
+server/uploads/products/*.svg
+!server/uploads/products/.gitkeep
+*.log
+.DS_Store
